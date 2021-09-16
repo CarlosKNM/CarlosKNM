@@ -1,7 +1,6 @@
 - 👋 Hola soy @CarlosKNM
 - 👀 Estoy interesado en programación web y todo lo relacionado al manga
 - 🌱 Actualmente estoy aprendiendo html, php y Javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 Como contactarme: Dejandome un privado en mi Discord - Madokaka#6999
 
 <!---
